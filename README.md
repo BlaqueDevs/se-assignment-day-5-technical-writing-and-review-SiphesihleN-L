@@ -132,8 +132,6 @@ Example: “TaskFlow is a simple yet powerful task management app designed for b
 
 Example: “TaskFlow is a simple yet powerful task management app designed for busy professionals.”
 
-
-
 2. Key Features in Bullet Points: Highlight core functionalities.
 
 Easy Task Organization – Create, categorize, and prioritize tasks effortlessly.
